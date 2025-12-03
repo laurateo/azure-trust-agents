@@ -63,4 +63,4 @@ Non serve fare login su Microsoft Open Source: lavorate solo sul fork di Mauro.
 
 -----------
 
-# 👉 Con questo setup, ognuno di voi avrà un ambiente identico, pronto in pochi secondi, e potrà lavorare in autonomia senza installazioni locali.
+### 👉 Con questo setup, ognuno di voi avrà un ambiente identico, pronto in pochi secondi, e potrà lavorare in autonomia senza installazioni locali.
